@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.be1de375.css",
-    "main.js": "/portfolio/static/js/main.bd7daeeb.js",
+    "main.css": "/portfolio/static/css/main.e9586c4d.css",
+    "main.js": "/portfolio/static/js/main.e9a889bb.js",
     "static/media/WICWebpage.png": "/portfolio/static/media/WICWebpage.def9cfaf397b9c1aebad.png",
     "static/media/SCWeb.png": "/portfolio/static/media/SCWeb.259e71e94430be68f109.png",
     "static/media/WICInsta.png": "/portfolio/static/media/WICInsta.e11093d9dae4767d77a6.png",
     "static/media/erspPoster.png": "/portfolio/static/media/erspPoster.d5791ad85301c53d38a0.png",
+    "static/media/PlantCard.png": "/portfolio/static/media/PlantCard.84d4a8e986ccfef77f9a.png",
+    "static/media/PlantHome.png": "/portfolio/static/media/PlantHome.c213bbea75de6caa1bde.png",
+    "static/media/PlantSearch.png": "/portfolio/static/media/PlantSearch.3edbd1094e15fec55b3b.png",
+    "static/media/PlantMine.png": "/portfolio/static/media/PlantMine.764610aafa7a0ecc3669.png",
+    "static/media/PlantSwipe.png": "/portfolio/static/media/PlantSwipe.82f3ec3f94f3bdb9746c.png",
     "static/media/TechDev.png": "/portfolio/static/media/TechDev.c4a566096e911e676610.png",
+    "static/media/PlantAccount.png": "/portfolio/static/media/PlantAccount.93bccdb06d48a24028f1.png",
     "static/media/figmaPrototype.png": "/portfolio/static/media/figmaPrototype.8d15075c2dd036066390.png",
     "static/media/SCSignUp.png": "/portfolio/static/media/SCSignUp.4a835b4fc567f3a8911b.png",
     "static/media/SCLogin.png": "/portfolio/static/media/SCLogin.29cbd8a7f4da5a96aa41.png",
@@ -38,11 +44,11 @@
     "static/media/figma.png": "/portfolio/static/media/figma.617f807aefc1d4f7b795.png",
     "static/media/css.png": "/portfolio/static/media/css.200fa9bfc327c8ab31ea.png",
     "index.html": "/portfolio/index.html",
-    "main.be1de375.css.map": "/portfolio/static/css/main.be1de375.css.map",
-    "main.bd7daeeb.js.map": "/portfolio/static/js/main.bd7daeeb.js.map"
+    "main.e9586c4d.css.map": "/portfolio/static/css/main.e9586c4d.css.map",
+    "main.e9a889bb.js.map": "/portfolio/static/js/main.e9a889bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.be1de375.css",
-    "static/js/main.bd7daeeb.js"
+    "static/css/main.e9586c4d.css",
+    "static/js/main.e9a889bb.js"
   ]
 }
